@@ -32,12 +32,12 @@ SOURCES=./src/main.c
 
 MAIN_OBJECT=$(DIR_OBJS)/main.o
 
-TEST_OBJECT1 = ./bin/set-trail1/set.o
-TEST_OBJECT2 = ./bin/set-trail2/set.o
+TEST_OBJECT1 = ./bin/set-trial1/set.o
+TEST_OBJECT2 = ./bin/set-trial2/set.o
 TEST_OBJECT3 = ./bin/set-trial3/set.o
-TEST_OBJECT4 = ./bin/set-trail4/set.o
-TEST_OBJECT5 = ./bin/set-trail5/set.o
-TEST_OBJECT6 = ./bin/set-trail6/set.o
+TEST_OBJECT4 = ./bin/set-trial4/set.o
+TEST_OBJECT5 = ./bin/set-trial5/set.o
+TEST_OBJECT6 = ./bin/set-trial6/set.o
 
 
 #---------------------------------------------------------------------
@@ -48,22 +48,22 @@ default: $(TARGET1) $(TARGET2) $(TARGET3) $(TARGET4) $(TARGET5) $(TARGET6)
 
 # Link compiled objects and create an executable binary.
 # It requires to have directory for objects and to compile objects
-$(TARGET1): check_headers make_directory $(TEST_OBJECT1) $(MAIN_OBJECT)
+$(TARGET1): check_headers make_directory  $(MAIN_OBJECT)
 	$(CC)  $(MAIN_OBJECT) $(TEST_OBJECT1) -o $@
 
-$(TARGET2): check_headers make_directory $(TEST_OBJECT2) $(MAIN_OBJECT)
+$(TARGET2): check_headers make_directory  $(MAIN_OBJECT)
 	$(CC)  $(MAIN_OBJECT) $(TEST_OBJECT2) -o $@
 
-$(TARGET3): check_headers make_directory $(TEST_OBJECT3) $(MAIN_OBJECT)
+$(TARGET3): check_headers make_directory  $(MAIN_OBJECT)
 	$(CC)  $(MAIN_OBJECT) $(TEST_OBJECT3) -o $@
 
-$(TARGET4): check_headers make_directory $(TEST_OBJECT4) $(MAIN_OBJECT)
+$(TARGET4): check_headers make_directory  $(MAIN_OBJECT)
 	$(CC)  $(MAIN_OBJECT) $(TEST_OBJECT4) -o $@
 
-$(TARGET5): check_headers make_directory $(TEST_OBJECT5) $(MAIN_OBJECT)
+$(TARGET5): check_headers make_directory  $(MAIN_OBJECT)
 	$(CC)  $(MAIN_OBJECT) $(TEST_OBJECT5) -o $@
 
-$(TARGET6): check_headers make_directory $(TEST_OBJECT6) $(MAIN_OBJECT)
+$(TARGET6): check_headers make_directory  $(MAIN_OBJECT)
 	$(CC)  $(MAIN_OBJECT) $(TEST_OBJECT6) -o $@
 
 

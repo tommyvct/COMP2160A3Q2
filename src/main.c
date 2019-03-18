@@ -38,7 +38,7 @@ int main(int argc, char const *argv[])
     }
 
     Set * setArray[MAX] = {NULL};
-    int setSize;
+    int setSize = 0;
 
     if (!validateMemUse())
     {
