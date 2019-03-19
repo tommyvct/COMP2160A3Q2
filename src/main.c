@@ -56,7 +56,10 @@ int main(int argc, char const *argv[])
         int paramSize = 0;
 
 
-        printf("> ");
+        if (!readScript)
+        {
+            printf("> ");
+        }
         fgets(buffer, MAX, instructionStream);
 
         // get instruction
@@ -100,11 +103,15 @@ int main(int argc, char const *argv[])
             }
         }
 
-        if (buffer[0] == '#')
+        if (buffer[0] == '#' || buffer[0] == '{' || buffer[0] == '}')
         {
             continue;
         }
-        else if (instructionIs("exit\n"))
+        else if (instructionIs("echo"))
+        {
+            printf("%s", buffer + 5);
+        }
+        else if (instructionIs("exit\n") || instructionIs("exit"))
         {
             break;
         }
@@ -155,7 +162,7 @@ int main(int argc, char const *argv[])
                     else
                     {
                         setSize++;
-                        printf("Successfully constructed a new Set.\n");
+                        printf("Successfully constructed a new Set at slot %d.\n", param[0]);
                     }
                 }
             }
@@ -177,7 +184,7 @@ int main(int argc, char const *argv[])
                     if (setArray[param[0]] == NULL)
                     {
                         setSize--;
-                        printf("Successfully deleted the Set.\n");
+                        printf("Successfully deleted the Set at slot %d.\n", param[0]);
                     }
                     else
                     {
@@ -211,11 +218,11 @@ int main(int argc, char const *argv[])
                     {
                         if (insertItem(setArray[param[0]], param[1]))
                         {
-                            printf("Successfuly inserted %d.\n", param[1]);
+                            printf("Successfuly inserted %d at set %d.\n", param[1], param[0]);
                         }
                         else
                         {
-                            fprintf(stdout, "Failed to insert %d.\n", param[1]);
+                            fprintf(stdout, "Failed to insert %d at set %d.\n", param[1], param[0]);
                         }
                     }
                 }
@@ -238,11 +245,11 @@ int main(int argc, char const *argv[])
                     {
                         if (removeItem(setArray[param[0]], param[1]))
                         {
-                            printf("Successfuly removed %d.\n", param[1]);
+                            printf("Successfuly removed %d from set %d.\n", param[1], param[0]);
                         }
                         else
                         {
-                            fprintf(stdout, "Failed to remove %d.\n", param[1]);
+                            fprintf(stdout, "Failed to remove %d from set %d.\n", param[1], param[0]);
                         }
                     }
                 }
@@ -321,11 +328,11 @@ int main(int argc, char const *argv[])
                     // prevent segmentation fault
                     if (setArray[param[0]] == NULL || setArray[param[1]] == NULL)
                     {
-                        printf("Attempting to use Undefined Sets.\n");
+                        printf("Attempting to use Undefined Set.\n");
                     }
                     else if (setArray[param[2]] != NULL)
                     {
-                        printf("Set %d is not empty, delete it then try again.\n", param[2]);
+                        printf("Target Set %d is not empty, delete it then try again.\n", param[2]);
                     }
                     else
                     {
@@ -336,7 +343,7 @@ int main(int argc, char const *argv[])
                         }
                         else
                         {
-                            printf("Done.\n");
+                            printf("Done union %d %d.\n", param[0], param[1]);
                         }
                     }
                 }
@@ -368,7 +375,7 @@ int main(int argc, char const *argv[])
                         }
                         else
                         {
-                            printf("Done.\n");
+                            printf("Done symdiff %d %d.\n", param[0], param[1]);
                         }
                     }
                 }

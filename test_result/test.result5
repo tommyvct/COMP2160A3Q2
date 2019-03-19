@@ -1,0 +1,651 @@
+Running script from "./test_script/1".
+
+
+
+============NEW===============
+Successfully constructed a new Set at slot 0.
+Successfully constructed a new Set at slot 1.
+Successfully constructed a new Set at slot 2.
+Successfully constructed a new Set at slot 3.
+Successfully constructed a new Set at slot 4.
+Successfully constructed a new Set at slot 5.
+Successfully constructed a new Set at slot 6.
+Successfully constructed a new Set at slot 7.
+Successfully constructed a new Set at slot 8.
+Successfully constructed a new Set at slot 9.
+Successfully constructed a new Set at slot 10.
+
+
+Set 0 is not empty, delete it then try again.
+Set 1 is not empty, delete it then try again.
+Set 2 is not empty, delete it then try again.
+Set 3 is not empty, delete it then try again.
+Set 4 is not empty, delete it then try again.
+Set 5 is not empty, delete it then try again.
+Set 6 is not empty, delete it then try again.
+Set 7 is not empty, delete it then try again.
+Set 8 is not empty, delete it then try again.
+Set 9 is not empty, delete it then try again.
+Set 10 is not empty, delete it then try again.
+
+
+Successfully deleted the Set at slot 0.
+Successfully deleted the Set at slot 1.
+Successfully deleted the Set at slot 2.
+Successfully deleted the Set at slot 3.
+Successfully deleted the Set at slot 4.
+Successfully deleted the Set at slot 5.
+Successfully deleted the Set at slot 6.
+Successfully deleted the Set at slot 7.
+Successfully deleted the Set at slot 8.
+Successfully deleted the Set at slot 9.
+Successfully deleted the Set at slot 10.
+
+
+Successfully constructed a new Set at slot 0.
+Successfully constructed a new Set at slot 1.
+Successfully constructed a new Set at slot 2.
+Successfully constructed a new Set at slot 3.
+Successfully constructed a new Set at slot 4.
+Successfully constructed a new Set at slot 5.
+Successfully constructed a new Set at slot 6.
+Successfully constructed a new Set at slot 7.
+Successfully constructed a new Set at slot 8.
+Successfully constructed a new Set at slot 9.
+Successfully constructed a new Set at slot 10.
+Successfully constructed a new Set at slot 11.
+Successfully constructed a new Set at slot 13.
+Successfully constructed a new Set at slot 15.
+Successfully constructed a new Set at slot 17.
+
+
+Successfully constructed a new Set at slot 30.
+Successfully constructed a new Set at slot 31.
+Successfully constructed a new Set at slot 33.
+Successfully constructed a new Set at slot 35.
+Successfully constructed a new Set at slot 37.
+Successfully constructed a new Set at slot 39.
+Successfully constructed a new Set at slot 41.
+Successfully constructed a new Set at slot 43.
+Successfully constructed a new Set at slot 45.
+Successfully constructed a new Set at slot 47.
+
+Successfuly inserted 1 at set 31.
+Successfuly inserted 2 at set 31.
+Successfuly inserted 3 at set 31.
+Successfuly inserted 4 at set 31.
+Successfuly inserted 5 at set 31.
+
+Successfuly inserted 6 at set 33.
+Successfuly inserted 7 at set 33.
+Successfuly inserted 8 at set 33.
+Successfuly inserted 9 at set 33.
+Successfuly inserted 10 at set 33.
+
+Successfuly inserted 3 at set 35.
+Successfuly inserted 4 at set 35.
+Successfuly inserted 5 at set 35.
+Successfuly inserted 6 at set 35.
+Successfuly inserted 7 at set 35.
+Successfuly inserted 8 at set 35.
+
+Successfuly inserted 10 at set 37.
+Successfuly inserted 2 at set 37.
+Successfuly inserted 4 at set 37.
+Successfuly inserted 6 at set 37.
+Successfuly inserted 8 at set 37.
+
+Successfuly inserted 1 at set 39.
+Successfuly inserted 3 at set 39.
+Successfuly inserted 5 at set 39.
+Successfuly inserted 7 at set 39.
+Successfuly inserted 9 at set 39.
+
+Successfuly inserted 1 at set 41.
+Successfuly inserted 2 at set 41.
+Successfuly inserted 3 at set 41.
+Successfuly inserted 4 at set 41.
+Successfuly inserted 5 at set 41.
+Successfuly inserted 6 at set 41.
+Successfuly inserted 7 at set 41.
+Successfuly inserted 8 at set 41.
+Successfuly inserted 9 at set 41.
+Successfuly inserted 10 at set 41.
+
+Successfuly inserted 1 at set 43.
+Successfuly inserted 2 at set 43.
+Successfuly inserted 3 at set 43.
+Successfuly inserted 4 at set 43.
+Successfuly inserted 5 at set 43.
+Successfuly inserted 6 at set 43.
+Successfuly inserted 7 at set 43.
+Successfuly inserted 8 at set 43.
+
+Successfuly inserted 3 at set 45.
+Successfuly inserted 4 at set 45.
+Successfuly inserted 5 at set 45.
+Successfuly inserted 6 at set 45.
+Successfuly inserted 7 at set 45.
+Successfuly inserted 8 at set 45.
+Successfuly inserted 9 at set 45.
+Successfuly inserted 10 at set 45.
+
+Successfuly inserted 2 at set 47.
+Successfuly inserted 3 at set 47.
+Successfuly inserted 4 at set 47.
+Successfuly inserted 5 at set 47.
+Successfuly inserted 6 at set 47.
+Successfuly inserted 7 at set 47.
+Successfuly inserted 8 at set 47.
+Successfuly inserted 10 at set 47.
+
+
+
+=====INSERT_DELETE_EQUAL=====
+Successfuly inserted 1 at set 1.
+Successfuly inserted 2 at set 1.
+Successfuly inserted 3 at set 1.
+Successfuly inserted 4 at set 1.
+Successfuly inserted 5 at set 1.
+
+Successfuly inserted 1 at set 2.
+Successfuly inserted 2 at set 2.
+Successfuly inserted 3 at set 2.
+Successfuly inserted 4 at set 2.
+Successfuly inserted 5 at set 2.
+
+Successfuly inserted 6 at set 3.
+Successfuly inserted 7 at set 3.
+Successfuly inserted 8 at set 3.
+Successfuly inserted 9 at set 3.
+Successfuly inserted 10 at set 3.
+
+Successfuly inserted 6 at set 4.
+Successfuly inserted 7 at set 4.
+Successfuly inserted 8 at set 4.
+Successfuly inserted 9 at set 4.
+Successfuly inserted 10 at set 4.
+
+Successfuly inserted 3 at set 5.
+Successfuly inserted 4 at set 5.
+Successfuly inserted 5 at set 5.
+Successfuly inserted 6 at set 5.
+Successfuly inserted 7 at set 5.
+Successfuly inserted 8 at set 5.
+
+Successfuly inserted 3 at set 6.
+Successfuly inserted 4 at set 6.
+Successfuly inserted 5 at set 6.
+Successfuly inserted 6 at set 6.
+Successfuly inserted 7 at set 6.
+Successfuly inserted 8 at set 6.
+
+Successfuly inserted 10 at set 7.
+Successfuly inserted 2 at set 7.
+Successfuly inserted 4 at set 7.
+Successfuly inserted 6 at set 7.
+Successfuly inserted 8 at set 7.
+
+Successfuly inserted 0 at set 8.
+Successfuly inserted 2 at set 8.
+Successfuly inserted 4 at set 8.
+Successfuly inserted 6 at set 8.
+Successfuly inserted 8 at set 8.
+
+Successfuly inserted 1 at set 9.
+Successfuly inserted 3 at set 9.
+Successfuly inserted 5 at set 9.
+Successfuly inserted 7 at set 9.
+Successfuly inserted 9 at set 9.
+
+Successfuly inserted 1 at set 10.
+Successfuly inserted 3 at set 10.
+Successfuly inserted 5 at set 10.
+Successfuly inserted 7 at set 10.
+Successfuly inserted 9 at set 10.
+
+Successfuly inserted 1 at set 11.
+Successfuly inserted 2 at set 11.
+Successfuly inserted 3 at set 11.
+Successfuly inserted 4 at set 11.
+Successfuly inserted 5 at set 11.
+Successfuly inserted 6 at set 11.
+Successfuly inserted 7 at set 11.
+Successfuly inserted 8 at set 11.
+Successfuly inserted 9 at set 11.
+Successfuly inserted 10 at set 11.
+
+Successfuly inserted 1 at set 13.
+Successfuly inserted 2 at set 13.
+Successfuly inserted 3 at set 13.
+Successfuly inserted 4 at set 13.
+Successfuly inserted 5 at set 13.
+Successfuly inserted 6 at set 13.
+Successfuly inserted 7 at set 13.
+Successfuly inserted 8 at set 13.
+
+Successfuly inserted 3 at set 15.
+Successfuly inserted 4 at set 15.
+Successfuly inserted 5 at set 15.
+Successfuly inserted 6 at set 15.
+Successfuly inserted 7 at set 15.
+Successfuly inserted 8 at set 15.
+Successfuly inserted 9 at set 15.
+Successfuly inserted 10 at set 15.
+
+Successfuly inserted 2 at set 17.
+Successfuly inserted 3 at set 17.
+Successfuly inserted 4 at set 17.
+Successfuly inserted 5 at set 17.
+Successfuly inserted 6 at set 17.
+Successfuly inserted 7 at set 17.
+Successfuly inserted 8 at set 17.
+Successfuly inserted 10 at set 17.
+
+
+Set 1 and 1 are equal.
+Set 3 and 3 are equal.
+Set 5 and 5 are equal.
+
+
+Set 1 and 2 are equal.
+
+
+Set 1 and 3 are NOT equal.
+Set 1 and 5 are NOT equal.
+Set 1 and 7 are NOT equal.
+Set 1 and 9 are NOT equal.
+
+
+Successfuly removed 2 from set 2.
+Set 1 and 2 are NOT equal.
+Set 2 and 1 are NOT equal.
+
+
+Successfuly inserted 2 at set 2.
+Set 1 and 2 are equal.
+Set 2 and 1 are equal.
+
+
+
+========DISJOINT=========
+Set 1 and 1 have common items.
+Set 1 and 2 have common items.
+Set 5 and 5 have common items.
+Set 5 and 6 have common items.
+Set 9 and 9 have common items.
+Set 9 and 10 have common items.
+
+
+Set 1 and 3 have common items.
+Set 7 and 9 have common items.
+Set 3 and 1 have common items.
+Set 9 and 7 have common items.
+
+
+Set 1 and 5 have common items.
+Set 3 and 5 have common items.
+Set 5 and 1 have common items.
+Set 5 and 3 have common items.
+
+
+
+Successfully deleted the Set at slot 0.
+Successfully deleted the Set at slot 1.
+Successfully deleted the Set at slot 2.
+Successfully deleted the Set at slot 3.
+Successfully deleted the Set at slot 4.
+Successfully deleted the Set at slot 5.
+Successfully deleted the Set at slot 6.
+Successfully deleted the Set at slot 7.
+Successfully deleted the Set at slot 8.
+Successfully deleted the Set at slot 9.
+Successfully deleted the Set at slot 10.
+Successfully deleted the Set at slot 11.
+No set to delete.
+Successfully deleted the Set at slot 13.
+No set to delete.
+Successfully deleted the Set at slot 15.
+No set to delete.
+Successfully deleted the Set at slot 17.
+No set to delete.
+Successfully constructed a new Set at slot 0.
+Successfully constructed a new Set at slot 1.
+Successfully constructed a new Set at slot 2.
+Successfully constructed a new Set at slot 3.
+Successfully constructed a new Set at slot 4.
+Successfully constructed a new Set at slot 5.
+Successfully constructed a new Set at slot 6.
+Successfully constructed a new Set at slot 7.
+Successfully constructed a new Set at slot 8.
+Successfully constructed a new Set at slot 9.
+Successfully constructed a new Set at slot 10.
+Successfully constructed a new Set at slot 11.
+Successfully constructed a new Set at slot 13.
+Successfully constructed a new Set at slot 15.
+Successfully constructed a new Set at slot 17.
+Successfuly inserted 1 at set 1.
+Successfuly inserted 2 at set 1.
+Successfuly inserted 3 at set 1.
+Successfuly inserted 4 at set 1.
+Successfuly inserted 5 at set 1.
+Successfuly inserted 1 at set 2.
+Successfuly inserted 2 at set 2.
+Successfuly inserted 3 at set 2.
+Successfuly inserted 4 at set 2.
+Successfuly inserted 5 at set 2.
+Successfuly inserted 6 at set 3.
+Successfuly inserted 7 at set 3.
+Successfuly inserted 8 at set 3.
+Successfuly inserted 9 at set 3.
+Successfuly inserted 10 at set 3.
+Successfuly inserted 6 at set 4.
+Successfuly inserted 7 at set 4.
+Successfuly inserted 8 at set 4.
+Successfuly inserted 9 at set 4.
+Successfuly inserted 10 at set 4.
+Successfuly inserted 3 at set 5.
+Successfuly inserted 4 at set 5.
+Successfuly inserted 5 at set 5.
+Successfuly inserted 6 at set 5.
+Successfuly inserted 7 at set 5.
+Successfuly inserted 8 at set 5.
+Successfuly inserted 3 at set 6.
+Successfuly inserted 4 at set 6.
+Successfuly inserted 5 at set 6.
+Successfuly inserted 6 at set 6.
+Successfuly inserted 7 at set 6.
+Successfuly inserted 8 at set 6.
+Successfuly inserted 10 at set 7.
+Successfuly inserted 2 at set 7.
+Successfuly inserted 4 at set 7.
+Successfuly inserted 6 at set 7.
+Successfuly inserted 8 at set 7.
+Successfuly inserted 0 at set 8.
+Successfuly inserted 2 at set 8.
+Successfuly inserted 4 at set 8.
+Successfuly inserted 6 at set 8.
+Successfuly inserted 8 at set 8.
+Successfuly inserted 1 at set 9.
+Successfuly inserted 3 at set 9.
+Successfuly inserted 5 at set 9.
+Successfuly inserted 7 at set 9.
+Successfuly inserted 9 at set 9.
+Successfuly inserted 1 at set 10.
+Successfuly inserted 3 at set 10.
+Successfuly inserted 5 at set 10.
+Successfuly inserted 7 at set 10.
+Successfuly inserted 9 at set 10.
+Successfuly inserted 1 at set 11.
+Successfuly inserted 2 at set 11.
+Successfuly inserted 3 at set 11.
+Successfuly inserted 4 at set 11.
+Successfuly inserted 5 at set 11.
+Successfuly inserted 6 at set 11.
+Successfuly inserted 7 at set 11.
+Successfuly inserted 8 at set 11.
+Successfuly inserted 9 at set 11.
+Successfuly inserted 10 at set 11.
+Successfuly inserted 1 at set 13.
+Successfuly inserted 2 at set 13.
+Successfuly inserted 3 at set 13.
+Successfuly inserted 4 at set 13.
+Successfuly inserted 5 at set 13.
+Successfuly inserted 6 at set 13.
+Successfuly inserted 7 at set 13.
+Successfuly inserted 8 at set 13.
+Successfuly inserted 3 at set 15.
+Successfuly inserted 4 at set 15.
+Successfuly inserted 5 at set 15.
+Successfuly inserted 6 at set 15.
+Successfuly inserted 7 at set 15.
+Successfuly inserted 8 at set 15.
+Successfuly inserted 9 at set 15.
+Successfuly inserted 10 at set 15.
+Successfuly inserted 2 at set 17.
+Successfuly inserted 3 at set 17.
+Successfuly inserted 4 at set 17.
+Successfuly inserted 5 at set 17.
+Successfuly inserted 6 at set 17.
+Successfuly inserted 7 at set 17.
+Successfuly inserted 8 at set 17.
+Successfuly inserted 10 at set 17.
+
+
+
+==========UNION===========
+Done union 1 3.
+Set 11 and 12 are equal.
+Successfully deleted the Set at slot 12.
+Done union 3 1.
+Set 11 and 12 are equal.
+Successfully deleted the Set at slot 12.
+
+Done union 7 9.
+Set 11 and 12 are equal.
+Successfully deleted the Set at slot 12.
+Done union 9 7.
+Set 11 and 12 are equal.
+Successfully deleted the Set at slot 12.
+
+
+Done union 1 5.
+Set 13 and 14 are equal.
+Successfully deleted the Set at slot 14.
+Done union 5 1.
+Set 13 and 14 are equal.
+Successfully deleted the Set at slot 14.
+
+
+Done union 3 5.
+Set 15 and 16 are equal.
+Successfully deleted the Set at slot 16.
+Done union 5 3.
+Set 15 and 16 are equal.
+Successfully deleted the Set at slot 16.
+
+
+Done union 5 7.
+Set 17 and 18 are equal.
+Successfully deleted the Set at slot 18.
+Done union 7 5.
+Set 17 and 18 are equal.
+Successfully deleted the Set at slot 18.
+
+
+Done union 0 1.
+Set 1 and 18 are equal.
+Successfully deleted the Set at slot 18.
+Done union 1 0.
+Set 1 and 18 are equal.
+Successfully deleted the Set at slot 18.
+
+
+Done union 0 0.
+Set 0 and 18 are equal.
+Successfully deleted the Set at slot 18.
+
+
+Set 0 and 30 are equal.
+Set 1 and 31 are equal.
+Set 3 and 33 are equal.
+Set 5 and 35 are equal.
+Set 7 and 37 are equal.
+Set 9 and 39 are equal.
+Set 11 and 41 are equal.
+Set 13 and 43 are equal.
+Set 15 and 45 are equal.
+Set 17 and 47 are equal.
+
+
+
+Successfully deleted the Set at slot 0.
+Successfully deleted the Set at slot 1.
+Successfully deleted the Set at slot 2.
+Successfully deleted the Set at slot 3.
+Successfully deleted the Set at slot 4.
+Successfully deleted the Set at slot 5.
+Successfully deleted the Set at slot 6.
+Successfully deleted the Set at slot 7.
+Successfully deleted the Set at slot 8.
+Successfully deleted the Set at slot 9.
+Successfully deleted the Set at slot 10.
+Successfully deleted the Set at slot 11.
+No set to delete.
+Successfully deleted the Set at slot 13.
+No set to delete.
+Successfully deleted the Set at slot 15.
+No set to delete.
+Successfully deleted the Set at slot 17.
+No set to delete.
+No set to delete.
+Successfully constructed a new Set at slot 0.
+Successfully constructed a new Set at slot 1.
+Successfully constructed a new Set at slot 2.
+Successfully constructed a new Set at slot 3.
+Successfully constructed a new Set at slot 4.
+Successfully constructed a new Set at slot 5.
+Successfully constructed a new Set at slot 6.
+Successfully constructed a new Set at slot 7.
+Successfully constructed a new Set at slot 8.
+Successfully constructed a new Set at slot 9.
+Successfully constructed a new Set at slot 10.
+Successfully constructed a new Set at slot 11.
+Successfully constructed a new Set at slot 13.
+Successfully constructed a new Set at slot 15.
+Successfully constructed a new Set at slot 17.
+Successfully constructed a new Set at slot 19.
+Successfuly inserted 1 at set 1.
+Successfuly inserted 2 at set 1.
+Successfuly inserted 3 at set 1.
+Successfuly inserted 4 at set 1.
+Successfuly inserted 5 at set 1.
+Successfuly inserted 1 at set 2.
+Successfuly inserted 2 at set 2.
+Successfuly inserted 3 at set 2.
+Successfuly inserted 4 at set 2.
+Successfuly inserted 5 at set 2.
+Successfuly inserted 6 at set 3.
+Successfuly inserted 7 at set 3.
+Successfuly inserted 8 at set 3.
+Successfuly inserted 9 at set 3.
+Successfuly inserted 10 at set 3.
+Successfuly inserted 6 at set 4.
+Successfuly inserted 7 at set 4.
+Successfuly inserted 8 at set 4.
+Successfuly inserted 9 at set 4.
+Successfuly inserted 10 at set 4.
+Successfuly inserted 3 at set 5.
+Successfuly inserted 4 at set 5.
+Successfuly inserted 5 at set 5.
+Successfuly inserted 6 at set 5.
+Successfuly inserted 7 at set 5.
+Successfuly inserted 8 at set 5.
+Successfuly inserted 3 at set 6.
+Successfuly inserted 4 at set 6.
+Successfuly inserted 5 at set 6.
+Successfuly inserted 6 at set 6.
+Successfuly inserted 7 at set 6.
+Successfuly inserted 8 at set 6.
+Successfuly inserted 10 at set 7.
+Successfuly inserted 2 at set 7.
+Successfuly inserted 4 at set 7.
+Successfuly inserted 6 at set 7.
+Successfuly inserted 8 at set 7.
+Successfuly inserted 0 at set 8.
+Successfuly inserted 2 at set 8.
+Successfuly inserted 4 at set 8.
+Successfuly inserted 6 at set 8.
+Successfuly inserted 8 at set 8.
+Successfuly inserted 1 at set 9.
+Successfuly inserted 3 at set 9.
+Successfuly inserted 5 at set 9.
+Successfuly inserted 7 at set 9.
+Successfuly inserted 9 at set 9.
+Successfuly inserted 1 at set 10.
+Successfuly inserted 3 at set 10.
+Successfuly inserted 5 at set 10.
+Successfuly inserted 7 at set 10.
+Successfuly inserted 9 at set 10.
+Successfuly inserted 1 at set 11.
+Successfuly inserted 2 at set 11.
+Successfuly inserted 3 at set 11.
+Successfuly inserted 4 at set 11.
+Successfuly inserted 5 at set 11.
+Successfuly inserted 6 at set 11.
+Successfuly inserted 7 at set 11.
+Successfuly inserted 8 at set 11.
+Successfuly inserted 9 at set 11.
+Successfuly inserted 10 at set 11.
+Successfuly inserted 1 at set 13.
+Successfuly inserted 2 at set 13.
+Successfuly inserted 3 at set 13.
+Successfuly inserted 4 at set 13.
+Successfuly inserted 5 at set 13.
+Successfuly inserted 6 at set 13.
+Successfuly inserted 7 at set 13.
+Successfuly inserted 8 at set 13.
+Successfuly inserted 3 at set 15.
+Successfuly inserted 4 at set 15.
+Successfuly inserted 5 at set 15.
+Successfuly inserted 6 at set 15.
+Successfuly inserted 7 at set 15.
+Successfuly inserted 8 at set 15.
+Successfuly inserted 9 at set 15.
+Successfuly inserted 10 at set 15.
+Successfuly inserted 2 at set 17.
+Successfuly inserted 3 at set 17.
+Successfuly inserted 4 at set 17.
+Successfuly inserted 5 at set 17.
+Successfuly inserted 6 at set 17.
+Successfuly inserted 7 at set 17.
+Successfuly inserted 8 at set 17.
+Successfuly inserted 10 at set 17.
+Successfuly inserted 3 at set 19.
+Successfuly inserted 4 at set 19.
+Successfuly inserted 5 at set 19.
+Successfuly inserted 9 at set 19.
+Successfuly inserted 10 at set 19.
+
+
+
+=============SYMDIFF================
+Done symdiff 9 9.
+Set 0 and 20 are NOT equal.
+Successfully deleted the Set at slot 20.
+
+
+Done symdiff 0 0.
+Set 0 and 30 are equal.
+Successfully deleted the Set at slot 20.
+
+
+Done symdiff 1 3.
+Set 11 and 12 are equal.
+Successfully deleted the Set at slot 12.
+Done symdiff 3 1.
+Set 11 and 12 are equal.
+Successfully deleted the Set at slot 12.
+
+
+Done symdiff 4 5.
+Set 19 and 20 are NOT equal.
+Successfully deleted the Set at slot 20.
+Done symdiff 5 4.
+Set 19 and 20 are NOT equal.
+Successfully deleted the Set at slot 20.
+
+
+Set 0 and 30 are equal.
+Set 1 and 31 are equal.
+Set 3 and 33 are equal.
+Set 5 and 35 are equal.
+Set 7 and 37 are equal.
+Set 9 and 39 are equal.
+Set 11 and 41 are equal.
+Set 13 and 43 are equal.
+Set 15 and 45 are equal.
+Set 17 and 47 are equal.
+
+
+End of script.
