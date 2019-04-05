@@ -53,3 +53,4 @@ dkms.conf
 
 .vscode/ipch/
 *.ipch
+.vscode/ipch/8346fd0685bb4778/main.ipch
